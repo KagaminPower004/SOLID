@@ -1,0 +1,11 @@
+package ShituMonSha;
+
+public class Pure {
+    
+    public static void main(String args[]){
+
+    	//FaxÇ≈Ç®ñ‚Ç¢çáÇÌÇπÇµÇÊÅ`Ç¡Ç∆ÅÙ
+        NaviDialFactory beNavia = new NaviDialFactory();
+        beNavia.create().FaxNaviDial();
+    }
+}

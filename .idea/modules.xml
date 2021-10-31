@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SOLID.iml" filepath="$PROJECT_DIR$/.idea/SOLID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-DIP001/SOLID-DIP001.iml" filepath="$PROJECT_DIR$/SOLID-DIP001/SOLID-DIP001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-DIP001_02/SOLID-DIP001_02.iml" filepath="$PROJECT_DIR$/SOLID-DIP001_02/SOLID-DIP001_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-DIP002/SOLID-DIP002.iml" filepath="$PROJECT_DIR$/SOLID-DIP002/SOLID-DIP002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-ISP001/SOLID-ISP001.iml" filepath="$PROJECT_DIR$/SOLID-ISP001/SOLID-ISP001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-ISP001_bad/SOLID-ISP001_bad.iml" filepath="$PROJECT_DIR$/SOLID-ISP001_bad/SOLID-ISP001_bad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-LSP001/SOLID-LSP001.iml" filepath="$PROJECT_DIR$/SOLID-LSP001/SOLID-LSP001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-LSP002/SOLID-LSP002.iml" filepath="$PROJECT_DIR$/SOLID-LSP002/SOLID-LSP002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-OCP001/SOLID-OCP001.iml" filepath="$PROJECT_DIR$/SOLID-OCP001/SOLID-OCP001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-SRP001/SOLID-SRP001.iml" filepath="$PROJECT_DIR$/SOLID-SRP001/SOLID-SRP001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-SRP001_bad/SOLID-SRP001_bad.iml" filepath="$PROJECT_DIR$/SOLID-SRP001_bad/SOLID-SRP001_bad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-SRP002/SOLID-SRP002.iml" filepath="$PROJECT_DIR$/SOLID-SRP002/SOLID-SRP002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xSOLID-OCP001/xSOLID-OCP001.iml" filepath="$PROJECT_DIR$/xSOLID-OCP001/xSOLID-OCP001.iml" />
+    </modules>
+  </component>
+</project>
